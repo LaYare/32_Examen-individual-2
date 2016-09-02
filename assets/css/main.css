@@ -12,3 +12,17 @@
 .mgt3{
 	margin-top: 3%;
 }
+.rojo{
+	position: absolute;
+	background-color: red;
+	color: white;
+	padding: 0 2.5%;
+	margin-top: -80%;
+}
+.neg{
+	position: absolute;
+	background-color: black;
+	color: white;
+	padding: 0 2%;
+	margin-top: -87%;
+}
