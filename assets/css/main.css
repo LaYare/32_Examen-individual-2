@@ -26,3 +26,10 @@
 	padding: 0 2%;
 	margin-top: -87%;
 }
+.bg{
+	background-image: url("../images/client-bg.jpg");
+	background-size: cover;
+	background-position: center;
+	height: 15em;
+	padding-top: 5%;
+}
